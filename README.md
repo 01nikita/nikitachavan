@@ -1,2 +1,1 @@
 # nikitachavan
-for study purpose
